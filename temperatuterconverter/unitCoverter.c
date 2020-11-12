@@ -95,21 +95,14 @@ int main(void)
 
 		default: 
 		{
-			printf("\n Try again. Your choice is not valid");
+			
+			printf("\nYour choice is not valid");
+			printf("\n Try again.");
 			break;
 
 		}
 			
 
-
-		
-
-	
-
-
-
-
-		
 
 		}
 	
